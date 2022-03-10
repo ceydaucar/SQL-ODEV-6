@@ -1,5 +1,5 @@
 # SQL-ODEV-6
-Patika.dev > SQL > Ödev6
+Patika.dev > SQL > SQL Temelleri II > Ödev6
 
 ## 1. film tablosunda bulunan rental_rate sütunundaki değerlerin ortalaması nedir?
 
